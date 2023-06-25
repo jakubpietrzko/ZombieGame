@@ -1,0 +1,141 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\kubap\IdeaProjects\download\ZombieGame\out\artifacts\ZombieGame_jar\ZOmbie.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\kubap\IdeaProjects\download\ZombieGame\out\artifacts\ZombieGame_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files (x86)\dotnet\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\PuTTY\;C:\Users\kubap\AppData\Local\Microsoft\WindowsApps;C:\Users\kubap\AppData\Roaming\npm;C:\Program Files\heroku\bin;C:\Users\kubap\.dotnet\tools;C:\Program Files\Java\jre1.8.0_361\bin
+JRE paths:	;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files (x86)\dotnet\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\PuTTY\;C:\Users\kubap\AppData\Local\Microsoft\WindowsApps;C:\Users\kubap\AppData\Roaming\npm;C:\Program Files\heroku\bin;C:\Users\kubap\.dotnet\tools;C:\Program Files\Java\jre1.8.0_361\bin
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Intel\Intel(R) Management Engine Components\DAL\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft SQL Server\130\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\PuTTY\bin\javaw.exe (not found)
+Check launcher:	C:\Users\kubap\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\kubap\AppData\Roaming\npm\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\heroku\bin\javaw.exe (not found)
+Check launcher:	C:\Users\kubap\.dotnet\tools\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jre1.8.0_361\bin\javaw.exe (OK)
+Version string: 1.008.000_361 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jre1.8.0_361\bin\javaw.exe
+Launcher args:	-jar "C:\Users\kubap\IdeaProjects\download\ZombieGame\out\artifacts\ZombieGame_jar\ZOmbie.exe"
+Args length:	94/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\kubap\IdeaProjects\download\ZombieGame\out\artifacts\ZombieGame_jar\ZOmbie.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\kubap\IdeaProjects\download\ZombieGame\out\artifacts\ZombieGame_jar\.
+Requires JDK:	Yes
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	C:\Users\kubap\Desktop\launch4j-3.50-win32.exe
+Check launcher:	C:\Users\kubap\Desktop\launch4j-3.50-win32.exe\bin\javaw.exe (not found)
+Error msg:	This application requires a Java Runtime Environment.
+
+
+Version:	3.50
+CmdLine:	C:\Users\kubap\IdeaProjects\download\ZombieGame\out\artifacts\ZombieGame_jar\ZOmbie.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\kubap\IdeaProjects\download\ZombieGame\out\artifacts\ZombieGame_jar\.
+Requires JDK:	Yes
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	C:\Users\kubap\Downloads\_temp_matlab_R2020b_win64\sys\java\jre\win64\jre
+Check launcher:	C:\Users\kubap\Downloads\_temp_matlab_R2020b_win64\sys\java\jre\win64\jre\bin\javaw.exe (OK)
+Check javac:	C:\Users\kubap\Downloads\_temp_matlab_R2020b_win64\sys\java\jre\win64\jre\bin\javac.exe (not found)
+Error msg:	This application requires a Java Runtime Environment.
+
+
+Version:	3.50
+CmdLine:	C:\Users\kubap\ZombieShooter\ZombieGame\out\artifacts\ZombieGame_jar\ZOmbie.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\kubap\ZombieShooter\ZombieGame\out\artifacts\ZombieGame_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\Scripts;C:\MinGW\bin;C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64;C:\Program Files\PuTTY\putty.exe;C:\Program Files\Java\jre1.8.0_361\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files (x86)\dotnet\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\PuTTY\;C:\Program Files\CMake\bin;C:\Users\kubap\AppData\Local\Programs\Python\Python311\Scripts\pip.exe;C:\Users\kubap\AppData\Local\Programs\Python\Python311\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\msys64\mingw64\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files (x86)\dotnet\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\PuTTY\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tool;C:\Users\kubap\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\kubap\.dotnet\tools;;C:\Program Files\Java\jre1.8.0_361\bin
+JRE paths:	;C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\Scripts;C:\MinGW\bin;C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64;C:\Program Files\PuTTY\putty.exe;C:\Program Files\Java\jre1.8.0_361\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files (x86)\dotnet\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\PuTTY\;C:\Program Files\CMake\bin;C:\Users\kubap\AppData\Local\Programs\Python\Python311\Scripts\pip.exe;C:\Users\kubap\AppData\Local\Programs\Python\Python311\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\msys64\mingw64\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files (x86)\dotnet\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\PuTTY\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tool;C:\Users\kubap\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\kubap\.dotnet\tools;;C:\Program Files\Java\jre1.8.0_361\bin
+Check launcher:	C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\MinGW\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\PuTTY\putty.exe\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jre1.8.0_361\bin\javaw.exe (OK)
+Version string: 1.008.000_361 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jre1.8.0_361\bin\javaw.exe
+Launcher args:	-jar "C:\Users\kubap\ZombieShooter\ZombieGame\out\artifacts\ZombieGame_jar\ZOmbie.exe"
+Args length:	86/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\kubap\ZombieShooter\ZombieGame\out\artifacts\ZombieGame_jar\ZOmbie.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\kubap\ZombieShooter\ZombieGame\out\artifacts\ZombieGame_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\Scripts;C:\MinGW\bin;C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64;C:\Program Files\PuTTY\putty.exe;C:\Program Files\Java\jre1.8.0_361\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files (x86)\dotnet\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\PuTTY\;C:\Program Files\CMake\bin;C:\Users\kubap\AppData\Local\Programs\Python\Python311\Scripts\pip.exe;C:\Users\kubap\AppData\Local\Programs\Python\Python311\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\msys64\mingw64\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files (x86)\dotnet\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\PuTTY\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tool;C:\Users\kubap\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\kubap\.dotnet\tools;;C:\Program Files\Java\jre1.8.0_361\bin
+JRE paths:	;C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\Scripts;C:\MinGW\bin;C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64;C:\Program Files\PuTTY\putty.exe;C:\Program Files\Java\jre1.8.0_361\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files (x86)\dotnet\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\PuTTY\;C:\Program Files\CMake\bin;C:\Users\kubap\AppData\Local\Programs\Python\Python311\Scripts\pip.exe;C:\Users\kubap\AppData\Local\Programs\Python\Python311\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\msys64\mingw64\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files (x86)\dotnet\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\PuTTY\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tool;C:\Users\kubap\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\kubap\.dotnet\tools;;C:\Program Files\Java\jre1.8.0_361\bin
+Check launcher:	C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\MinGW\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\PuTTY\putty.exe\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jre1.8.0_361\bin\javaw.exe (OK)
+Version string: 1.008.000_361 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jre1.8.0_361\bin\javaw.exe
+Launcher args:	-jar "C:\Users\kubap\ZombieShooter\ZombieGame\out\artifacts\ZombieGame_jar\ZOmbie.exe"
+Args length:	86/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\kubap\ZombieShooter\ZombieGame\out\artifacts\ZombieGame_jar\Zombie.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\kubap\ZombieShooter\ZombieGame\out\artifacts\ZombieGame_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\Scripts;C:\MinGW\bin;C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64;C:\Program Files\PuTTY\putty.exe;C:\Program Files\Java\jre1.8.0_361\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files (x86)\dotnet\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\PuTTY\;C:\Program Files\CMake\bin;C:\Users\kubap\AppData\Local\Programs\Python\Python311\Scripts\pip.exe;C:\Users\kubap\AppData\Local\Programs\Python\Python311\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\msys64\mingw64\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files (x86)\dotnet\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\PuTTY\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tool;C:\Users\kubap\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\kubap\.dotnet\tools;;C:\Program Files\Java\jre1.8.0_361\bin
+JRE paths:	;C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\Scripts;C:\MinGW\bin;C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64;C:\Program Files\PuTTY\putty.exe;C:\Program Files\Java\jre1.8.0_361\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files (x86)\dotnet\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\PuTTY\;C:\Program Files\CMake\bin;C:\Users\kubap\AppData\Local\Programs\Python\Python311\Scripts\pip.exe;C:\Users\kubap\AppData\Local\Programs\Python\Python311\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\msys64\mingw64\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files (x86)\dotnet\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\PuTTY\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tool;C:\Users\kubap\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\kubap\.dotnet\tools;;C:\Program Files\Java\jre1.8.0_361\bin
+Check launcher:	C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\MinGW\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Microsoft Visual Studio\Shared\Python37_64\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\PuTTY\putty.exe\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jre1.8.0_361\bin\javaw.exe (OK)
+Version string: 1.008.000_361 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jre1.8.0_361\bin\javaw.exe
+Launcher args:	-jar "C:\Users\kubap\ZombieShooter\ZombieGame\out\artifacts\ZombieGame_jar\Zombie.exe"
+Args length:	86/32768 chars
+Exit code:	0
